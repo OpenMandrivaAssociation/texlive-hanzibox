@@ -1,6 +1,6 @@
 Name:		texlive-hanzibox
 Version:	63062
-Release:	1
+Release:	2
 Summary:	Boxed Chinese characters with Pinyin above and translation below
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hanzibox
