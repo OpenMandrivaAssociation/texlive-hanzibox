@@ -3,7 +3,7 @@ Version:	63062
 Release:	2
 Summary:	Boxed Chinese characters with Pinyin above and translation below
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hanzibox
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/hanzibox
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hanzibox.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hanzibox.doc.r%{version}.tar.xz
