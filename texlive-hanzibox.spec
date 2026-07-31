@@ -1,9 +1,9 @@
 %global tl_name hanzibox
-%global tl_revision 77682
+%global tl_revision 79715
 
 Name:		texlive-%{tl_name}
 Epoch:		1
-Version:	2.3.0
+Version:	2.3.1
 Release:	%{tl_revision}.1
 Summary:	Boxed Chinese characters with Pinyin above and translation below
 Group:		Publishing
